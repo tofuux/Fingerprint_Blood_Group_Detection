@@ -12,11 +12,11 @@ It uses a Convolutional Neural Network (CNN) trained on a dataset of fingerprint
 
 The model is a Deep CNN with:
 
-4 Convolutional Layers (ReLU activation, MaxPooling)
-Flatten & Dense Layers
-Dropout (0.5) to prevent overfitting
-Softmax Output Layer for multi-class classification
-Future Improvements
-Creating a frontend for this.
-Increase dataset size for better generalization.
-Fine-tune hyperparameters (learning rate, dropout, batch size).
+- 4 Convolutional Layers (ReLU activation, MaxPooling)
+- Flatten & Dense Layers
+- Dropout (0.5) to prevent overfitting
+- Softmax Output Layer for multi-class classification
+- Future Improvements
+- Creating a frontend for this.
+- Increase dataset size for better generalization.
+- Fine-tune hyperparameters (learning rate, dropout, batch size).
